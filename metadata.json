@@ -1,0 +1,6 @@
+{
+  "name": "Quran AI Studio",
+  "description": "AI-powered Quran video editing studio with auto-alignment, reciter voice studio, Uthmani Quran, multi-language translations, animated captions, and lower third caption bars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
